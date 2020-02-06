@@ -1,0 +1,18 @@
+body {
+	padding-top: 70px;
+	font-family: verdana;
+}
+
+.jumbotron {
+	color: rosybrown;
+	background: #f1edf7;
+}
+
+.navbar-fixed-top {
+	background: rosybrown;
+}
+
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-brand {
+	color: whitesmoke;
+}
